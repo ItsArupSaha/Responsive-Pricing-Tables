@@ -80,7 +80,6 @@ body{
 }
 
 .card .package-name::before{
-    content: "A";
     position: absolute;
     left: 50%;
     font-size: 25px;
